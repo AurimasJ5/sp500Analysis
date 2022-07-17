@@ -16,7 +16,7 @@ S&P 500 stock exchange market, which has 500 leading publicly traded companies i
 # Getting Started
 With a help of SQLITE data.db file is created holding data till 2022-07-13 .
 To get top holders and top market cap data , it can take a few hours in comparison to get only prices - just a few
-minutes. If top holders and top market cap methods aren't necessary, I would strongly recommend to comment out them.
+minutes. If top holders and top market cap tables aren't necessary, I would strongly recommend to comment out these methods in getdata.py last lines.
 - To update data: <br />
 run getdata.py file or use terminal `python3 run getdata.py`
 - To run project: <br />
