@@ -14,7 +14,7 @@ S&P 500 stock exchange market, which has 500 leading publicly traded companies i
 - Check growth of individual stock or multiple stocks 
 
 # Getting Started
-With a help of SQLITE data.db file is created holding data till 2022-07-13 .
+With SQLITE data.db local database is created holding data till 2022-07-13 .
 To get top holders and top market cap data , it can take a few hours in comparison to get only prices - just a few
 minutes. If top holders and top market cap tables aren't necessary, I would strongly recommend to comment out these methods in getdata.py last lines.
 - To update data: <br />
